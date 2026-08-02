@@ -1,1 +1,79 @@
+body {
 
+font-family: Tahoma, Arial;
+background:#f4f7fb;
+margin:0;
+color:#222;
+
+}
+
+
+header {
+
+background:linear-gradient(135deg,#003366,#1b75bb);
+color:white;
+text-align:center;
+padding:50px 20px;
+
+}
+
+
+header h1 {
+
+font-size:35px;
+
+}
+
+
+.library {
+
+padding:30px;
+text-align:center;
+
+}
+
+
+.book {
+
+background:white;
+max-width:350px;
+margin:auto;
+padding:25px;
+border-radius:15px;
+box-shadow:0 5px 20px #ccc;
+
+}
+
+
+.book img {
+
+width:220px;
+height:300px;
+object-fit:cover;
+border-radius:10px;
+
+}
+
+
+.book a {
+
+display:block;
+background:#0066cc;
+color:white;
+padding:12px;
+margin-top:20px;
+border-radius:8px;
+text-decoration:none;
+
+}
+
+
+footer {
+
+background:#003366;
+color:white;
+text-align:center;
+padding:15px;
+margin-top:40px;
+
+}
